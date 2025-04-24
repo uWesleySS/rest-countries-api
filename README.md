@@ -1,4 +1,4 @@
-# Rest Country API- Frontend Mentor
+# Rest Country API - Frontend Mentor
 
 Rest Country App is a web application built using Vite and React, provided by Frontend Mentor, that allows users to explore country information fetched from the [REST Countries API](https://restcountries.com/). The app features a user-friendly interface to search for countries, filter data by continent or region, and view detailed information about each country. It also boasts a custom Material-UI light and dark theme for a personalized user experience. The app utilizes technologies like React Router DOM, Material-UI, Axios, React Hot Toast, and React Spinners to enhance the user experience.
 
